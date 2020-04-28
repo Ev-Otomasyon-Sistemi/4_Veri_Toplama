@@ -29,9 +29,8 @@ Eğer sistem bir hareket algılarsa buzzer devreye girer ve alarm çalar.*
  *Toprağın kuruduğunu sistem anladığı zaman su vermektedir. <br/>
  <br/>
  
-Veriler toprağın kuruluğuna bakıp almaktadır. Eğer topraktaki su miktarı az ise sistem tarafından toprağa su verilmektedir.<br/>
-Genel olarak da tatil modu durumunda iken evdeki çiçekler sulanmaktadır.
-* 
+*Veriler toprağın kuruluğuna bakıp almaktadır. Eğer topraktaki su miktarı az ise sistem tarafından toprağa su verilmektedir.<br/>
+Genel olarak da tatil modu durumunda iken evdeki çiçekler sulanmaktadır.* 
 
 ##### *Isı-Nem Sensörü*
 *Bu sensör sayesinde çevrenin ısı-nemi algılanır ve ona göre sisteme veri gönderir ve veri tabanında güncellenmiş olur.*
