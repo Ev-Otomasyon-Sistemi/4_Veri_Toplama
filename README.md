@@ -26,7 +26,7 @@ Eğer sistem bir hareket algılarsa buzzer devreye girer ve alarm çalar.*
  Veriler genellikle, akşam iş dönüşünde alınmaktadır. Çünkü genel olarak akşam arabanın park edilmesi üzerine veriler akşam saatlerinde çok alınır.*
  
 ##### *Sulama*
- *Toprağın kuruduğunu sistem anladığı zaman su vermektedir. <br/>
+ *Toprağın kuruduğunu sistem anladığı zaman su vermektedir. <br/>*
  <br/>
  
 *Veriler toprağın kuruluğuna bakıp almaktadır. Eğer topraktaki su miktarı az ise sistem tarafından toprağa su verilmektedir.<br/>
