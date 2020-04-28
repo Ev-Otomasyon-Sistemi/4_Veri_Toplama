@@ -15,11 +15,13 @@ Genel olarak akşam-gece saatlerinde hırsızların çok olduğu zamanda sistem 
 
 ##### *Işıklar* 
 *Evdeki ışıklar, kullanıcı isteği ile etkinleşir. Kullanıcı evden uzakta olsa bile ışıklara müdahale edip kapatıp açabilir. <br/>
-Veriler, gündüz güneşli saatlerde ışıkların kapalı, akşam saatlerinde ışıkların açık olduğu şeklinde alınmaktadır.*
+Veriler, gündüz güneşli saatlerde ışıkların kapalı, akşam saatlerinde ışıkların açık olduğu şeklinde alınmaktadır.*<br/>
+*Aynı zamanda evden uzaktayken veya tatildeyken evin ışıklarını kontrol edip, hırsız girmemesi için akşam saatlerinde evde biri varmış hissi uyandırmak için kullanılır.Sabahleyin tekrardan ışıklar kapatılır.*
 
 ##### *Alarm*
-*Zorlama ile eve giriş sağlandığı anda etkinleşir. Hareket sensörüyle birlikte çalışır.<br/>
-Eğer sistem bir hareket algılarsa buzzer devreye girer ve alarm çalar.*
+*Zorlama ile eve giriş sağlandığı anda etkinleşir. Hareket sensörüyle birlikte çalışır.<br/>*
+*Genel olarak hırsızların aktif olduğu zamanlarda çalışır.*
+*Eğer sistem bir hareket algılarsa buzzer devreye girer ve alarm çalar.*
 
 ##### *Mesafe Sensörü*
  *Park işlemlerini kolaylaştırır. Burada minimum mesafe 10cm olarak ayarladığı zaman arabanın kolay bir şekilde park edilmesini sağlamaktadır.<br/>
@@ -29,7 +31,7 @@ Eğer sistem bir hareket algılarsa buzzer devreye girer ve alarm çalar.*
  *Toprağın kuruduğunu sistem anladığı zaman su vermektedir. <br/>*
  <br/>
  
-*Veriler toprağın kuruluğuna bakıp almaktadır. Eğer topraktaki su miktarı az ise sistem tarafından toprağa su verilmektedir.<br/>
+*Veriler toprağın kuruluğuna bakıp alınmaktadır. Eğer topraktaki su miktarı az ise sistem tarafından toprağa su verilmektedir.<br/>
 Genel olarak da tatil modu durumunda iken evdeki çiçekler sulanmaktadır.* 
 
 ##### *Isı-Nem Sensörü*
