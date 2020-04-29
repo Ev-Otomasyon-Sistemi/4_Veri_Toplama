@@ -6,13 +6,13 @@ Sensörler, fiziksel veya kimyasal büyüklükleri elektriksel büyüklüklere �
 Verilerin Toplanması ve Kontrol Edilmesi
 
 Hareket Sensörü
-Projemizde hareket sensörü kullanarak herhangi bir harekette sensör durumu algılayacak. Sistemi uyararak alarm devreye girecek ve güvenlik sistemi çalışacak. Sistem oldukça  kullanışlıdır. <br/>
+Projemizde hareket sensörü kullanarak herhangi bir harekette sensör durumu algılayacak. Sistemi uyararak alarm devreye girecek ve güvenlik sistemi çalışacak. Sistem oldukça  kullanışlıdır. 
 Genel olarak akşam-gece saatlerinde hırsızların çok olduğu zamanda sistem tarafından veriler alınmakta olup daha çok güvenliği ön planda tutmak amaçlanmaktadır..
 
 Işıklar
-Evdeki ışıklar, kullanıcı isteği ile etkinleşir. Kullanıcı evden uzakta olsa bile ışıklara müdahale edip kapatıp açabilir. <br/>
-Veriler, gündüz güneşli saatlerde ışıkların kapalı, akşam saatlerinde ışıkların açık olduğu şeklinde alınmaktadır.*<br/>
-*Aynı zamanda evden uzaktayken veya tatildeyken evin ışıklarını kontrol edip, hırsız girmemesi için akşam saatlerinde evde biri varmış hissi uyandırmak için kullanılır.Sabahleyin tekrardan ışıklar kapatılır.*
+Evdeki ışıklar, kullanıcı isteği ile etkinleşir. Kullanıcı evden uzakta olsa bile ışıklara müdahale edip kapatıp açabilir. 
+Veriler, gündüz güneşli saatlerde ışıkların kapalı, akşam saatlerinde ışıkların açık olduğu şeklinde alınmaktadır.
+Aynı zamanda evden uzaktayken veya tatildeyken evin ışıklarını kontrol edip, hırsız girmemesi için akşam saatlerinde evde biri varmış hissi uyandırmak için kullanılır.Sabahleyin tekrardan ışıklar kapatılır.
 
 Alarm
 Zorlama ile eve giriş sağlandığı anda etkinleşir. Hareket sensörüyle birlikte çalışır.
@@ -25,7 +25,7 @@ Veriler genellikle, akşam iş dönüşünde alınmaktadır. Çünkü genel olar
  
 Sulama
 Toprağın kuruduğunu sistem anladığı zaman su vermektedir. 
-Veriler toprağın kuruluğuna bakıp alınmaktadır. Eğer topraktaki su miktarı az ise sistem tarafından toprağa su verilmektedir.<br/>
+Veriler toprağın kuruluğuna bakıp alınmaktadır. Eğer topraktaki su miktarı az ise sistem tarafından toprağa su verilmektedir.
 Genel olarak da tatil modu durumunda iken evdeki çiçekler sulanmaktadır.
 
 Isı-Nem Sensörü
