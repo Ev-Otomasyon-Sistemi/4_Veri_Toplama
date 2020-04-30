@@ -6,7 +6,7 @@ Sensörler, fiziksel veya kimyasal büyüklükleri elektriksel büyüklüklere �
 Verilerin Toplanması ve Kontrol Edilmesi
 
 Hareket Sensörü
-Projemizde hareket sensörü kullanarak herhangi bir harekette sensör durumu algılayacak. Sistemi uyararak alarm devreye girecek ve güvenlik sistemi çalışacak. Sistem oldukça  kullanışlıdır. 
+Projemizde hareket sensörü kullanarak herhangi bir harekette sensör durumu algılayacak. Sensör sistemi uyararak alarm devreye girecektir. Bu sensör oldukça  kullanışlıdır. Artık akıllı evler bu sensör sayesinde daha güvenlidir.
 Genel olarak akşam-gece saatlerinde hırsızların çok olduğu zamanda sistem tarafından veriler alınmakta olup daha çok güvenliği ön planda tutmak amaçlanmaktadır..
 
 Işıklar
@@ -28,9 +28,11 @@ Toprağın kuruduğunu sistem anladığı zaman su vermektedir.
 Veriler toprağın kuruluğuna bakıp alınmaktadır. Eğer topraktaki su miktarı az ise sistem tarafından toprağa su verilmektedir.
 Genel olarak da tatil modu durumunda iken evdeki çiçekler sulanmaktadır.
 
+Perde sistemi
+Bu sistem akıllı evde oldukça işe yarayan bir sistemdir. Otomatik olarak sabahları perde açılır ve akşamları tekrar kapanır. 
+Genel olarak perde sisteminden alınan veriler şu yöndedir; sabah saatlerinde perde açık, akşam saatlerde perde kapalı durumdadır.
+
 Isı-Nem Sensörü
 Bu sensör sayesinde çevrenin ısı-nemi algılanır ve ona göre sisteme veri gönderir ve veri tabanında güncellenmiş olur.
 
-Giriş
-Kullanıcı sisteme kullanıcı adı ve şifresiyle birlikte giriş yapmaktadır.
-Sistem tarafından kullanıcı bilgileri verileri alınır ve kullanıcı arayüzünde görünür.
+
