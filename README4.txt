@@ -18,7 +18,8 @@ için veri toplama kartlarına ihtiyaç duyulmaktadır.
 Verilerin Toplanması ve Kontrol Edilmesi
 
 Hareket Sensörü
-Projemizde hareket sensörü kullanarak herhangi bir harekette sensör durumu algılayacak. Sensör sistemi uyararak alarm devreye girecektir. Bu sensör oldukça kullanışlıdır. Artık akıllı evler bu sensör sayesinde daha güvenlidir. 
+Projemizde hareket sensörü kullanarak herhangi bir harekette sensör durumu algılayacak. Sensör sistemi uyararak alarm devreye girecektir. 
+Bu sensör oldukça kullanışlıdır. Artık akıllı evler bu sensör sayesinde daha güvenlidir. 
 Genel olarak akşam-gece saatlerinde hırsızların çok olduğu zamanda sistem tarafından veriler alınmakta olup daha çok güvenliği 
 ön planda tutmak amaçlanmaktadır.
 
