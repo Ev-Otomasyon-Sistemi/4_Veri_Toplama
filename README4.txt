@@ -1,7 +1,9 @@
 4_Veri_Toplama_
-Sensör kullanılarak yapılan uygulama veya deneysel çalışmalarda alınan ölçümlerin mobile aktarılması için veri işleme kartlarına ihtiyaç duyulmaktadır. Bu tür çalışmalarda kullanım kolaylığı açısından en çok tercih edilen platformlardan birisi de Arduino'dur. 
+Sensör kullanılarak yapılan uygulama veya deneysel çalışmalarda alınan ölçümlerin mobile aktarılması için veri işleme kartlarına ihtiyaç duyulmaktadır. 
+Bu tür çalışmalarda kullanım kolaylığı açısından en çok tercih edilen platformlardan birisi de Arduino'dur. 
 Açık kaynaklı bir geliştirme platformu olan Arduino’nun dijital ve analog girişleri sayesinde veriler okunup anlık olarak işlenebilmektedir. 
-Akıllı ev çalışmasında, mobil ortamda App Inventor kullanarak geliştirilen uygulama sayesinde Arduino'ya bağlanan farklı sensörler içerisinden istenilen sensörler seçilebilmektedir. Seçilen bu sensörleri kullanmak için gerekli Arduino kodu oluşturulabilmektedir. 
+Akıllı ev çalışmasında, mobil ortamda App Inventor kullanarak geliştirilen uygulama sayesinde Arduino'ya bağlanan farklı sensörler içerisinden istenilen sensörler seçilebilmektedir. 
+Seçilen bu sensörleri kullanmak için gerekli Arduino kodu oluşturulabilmektedir. 
 Arduino üzerindeki sensörlerden gelen veriler belirli zaman aralığında veya anlık olarak kaydedilebilmektedir. 
 Kaydedilen veriler, istenilen periyotlarda ve özelliklerde elde edilebilmekte ve kullanılabilmektedir.
 
