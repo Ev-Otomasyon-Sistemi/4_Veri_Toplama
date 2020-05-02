@@ -3,7 +3,8 @@ Sensör kullanılarak yapılan uygulama veya deneysel çalışmalarda alınan ö
 için veri işleme kartlarına ihtiyaç duyulmaktadır. 
 Bu tür çalışmalarda kullanım kolaylığı açısından en çok tercih edilen platformlardan birisi de Arduino'dur. 
 Açık kaynaklı bir geliştirme platformu olan Arduino’nun dijital ve analog girişleri sayesinde veriler okunup anlık olarak işlenebilmektedir. 
-Akıllı ev çalışmasında, mobil ortamda App Inventor kullanarak geliştirilen uygulama sayesinde Arduino'ya bağlanan farklı sensörler içerisinden istenilen sensörler seçilebilmektedir. 
+Akıllı ev çalışmasında, mobil ortamda App Inventor kullanarak geliştirilen uygulama sayesinde Arduino'ya bağlanan farklı
+sensörler içerisinden istenilen sensörler seçilebilmektedir. 
 Seçilen bu sensörleri kullanmak için gerekli Arduino kodu oluşturulabilmektedir. 
 Arduino üzerindeki sensörlerden gelen veriler belirli zaman aralığında veya anlık olarak kaydedilebilmektedir. 
 Kaydedilen veriler, istenilen periyotlarda ve özelliklerde elde edilebilmekte ve kullanılabilmektedir.
@@ -22,7 +23,8 @@ Genel olarak akşam-gece saatlerinde hırsızların çok olduğu zamanda sistem 
 Işıklar
 Evdeki ışıklar, kullanıcı isteği ile etkinleşir. Kullanıcı evden uzakta olsa bile ışıklara müdahale edip kapatıp açabilir. 
 Veriler, gündüz güneşli saatlerde ışıkların kapalı, akşam saatlerinde ışıkların açık olduğu şeklinde alınmaktadır.
-Aynı zamanda evden uzaktayken veya tatildeyken evin ışıklarını kontrol edip, hırsız girmemesi için akşam saatlerinde evde biri varmış hissi uyandırmak için kullanılır. Sabahleyin tekrardan ışıklar kapatılır.
+Aynı zamanda evden uzaktayken veya tatildeyken evin ışıklarını kontrol edip, hırsız girmemesi için akşam saatlerinde evde 
+biri varmış hissi uyandırmak için kullanılır. Sabahleyin tekrardan ışıklar kapatılır.
 
 Alarm
 Zorlama ile eve giriş sağlandığı anda etkinleşir. Hareket sensörüyle birlikte çalışır.
@@ -31,7 +33,8 @@ Eğer sistem bir hareket algılarsa buzzer devreye girer ve alarm çalar.
 
 Mesafe Sensörü
 Park işlemlerini kolaylaştırır. Burada minimum mesafe 10cm olarak ayarladığı zaman arabanın kolay bir şekilde park edilmesini sağlamaktadır.
-Veriler genellikle, akşam iş dönüşünde alınmaktadır. Çünkü genel olarak akşam arabanın park edilmesi üzerine veriler akşam saatlerinde çok alınır.
+Veriler genellikle, akşam iş dönüşünde alınmaktadır. Çünkü genel olarak akşam arabanın park edilmesi üzerine veriler akşam 
+saatlerinde çok alınır.
  
 Sulama
 Toprağın kuruduğunu sistem anladığı zaman su vermektedir. 
@@ -40,7 +43,8 @@ Genel olarak da tatil modu durumunda iken evdeki çiçekler sulanmaktadır.
 
 Perde Sistemi 
 Bu sistem akıllı evde oldukça işe yarayan bir sistemdir. Kullanıcı tek bir tuşla mobil uygulamadan basarak sabahları perdeyi açar ve akşamları tekrar kapatır.
-Genel olarak perde sisteminden alınan veriler şu yöndedir; sabah saatlerinde perde açık, akşam saatlerinde perde kapalı durumda olduğu bilgisi alınmaktadır.
+Genel olarak perde sisteminden alınan veriler şu yöndedir; sabah saatlerinde perde açık, akşam saatlerinde perde kapalı
+durumda olduğu bilgisi alınmaktadır.
 
 Isı-Nem Sensörü
 Bu sensör sayesinde çevrenin ısı-nemi algılanır ve ona göre sisteme veri gönderir ve veri tabanında güncellenmiş olur.
