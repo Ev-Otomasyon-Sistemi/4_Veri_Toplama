@@ -1,5 +1,6 @@
 4_Veri_Toplama_
-Sensör kullanılarak yapılan uygulama veya deneysel çalışmalarda alınan ölçümlerin mobile aktarılması için veri işleme kartlarına ihtiyaç duyulmaktadır. 
+Sensör kullanılarak yapılan uygulama veya deneysel çalışmalarda alınan ölçümlerin mobile aktarılması
+için veri işleme kartlarına ihtiyaç duyulmaktadır. 
 Bu tür çalışmalarda kullanım kolaylığı açısından en çok tercih edilen platformlardan birisi de Arduino'dur. 
 Açık kaynaklı bir geliştirme platformu olan Arduino’nun dijital ve analog girişleri sayesinde veriler okunup anlık olarak işlenebilmektedir. 
 Akıllı ev çalışmasında, mobil ortamda App Inventor kullanarak geliştirilen uygulama sayesinde Arduino'ya bağlanan farklı sensörler içerisinden istenilen sensörler seçilebilmektedir. 
@@ -15,7 +16,8 @@ Verilerin Toplanması ve Kontrol Edilmesi
 
 Hareket Sensörü
 Projemizde hareket sensörü kullanarak herhangi bir harekette sensör durumu algılayacak. Sensör sistemi uyararak alarm devreye girecektir. Bu sensör oldukça kullanışlıdır. Artık akıllı evler bu sensör sayesinde daha güvenlidir. 
-Genel olarak akşam-gece saatlerinde hırsızların çok olduğu zamanda sistem tarafından veriler alınmakta olup daha çok güvenliği ön planda tutmak amaçlanmaktadır.
+Genel olarak akşam-gece saatlerinde hırsızların çok olduğu zamanda sistem tarafından veriler alınmakta olup daha çok güvenliği 
+ön planda tutmak amaçlanmaktadır.
 
 Işıklar
 Evdeki ışıklar, kullanıcı isteği ile etkinleşir. Kullanıcı evden uzakta olsa bile ışıklara müdahale edip kapatıp açabilir. 
