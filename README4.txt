@@ -60,4 +60,5 @@ Bu sensör sayesinde çevrenin ısı-nemi algılanır ve ona göre sisteme veri 
 ------------------------------------------------------------------------------------------------------------------------
 
 Setup1 dosyası içinden Debug klasöründe->Setup1.msi tıklayın ve kurlumu başlatın.
-Kullanılan arduino'nun bağlantı noktasını yazıyoruz(com'x') girilir ve veriler textbox içinde gösterilir. Kaydet butonuna basarak masaüstüne kaydedilir.
+Kullanılan arduino'nun bağlantı noktasını yazıyoruz(com'x') girilir ve veriler textbox içinde gösterilir. 
+Kaydet butonuna basarak masaüstüne kaydedilir.
