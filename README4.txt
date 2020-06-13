@@ -57,4 +57,7 @@ durumda olduğu bilgisi alınmaktadır.
 Isı-Nem Sensörü
 Bu sensör sayesinde çevrenin ısı-nemi algılanır ve ona göre sisteme veri gönderir ve veri tabanında güncellenmiş olur.
 
+------------------------------------------------------------------------------------------------------------------------
 
+Setup1 dosyası içinden Debug klasörüne->Setup1.msi tıklayın ve kurlumu başlatın.
+Kullanılan arduinonun bağlantı noktasını yazıyoruz(com'x') girilir ve veriler textbox içinde gösterilir ve kaydet butonuna basarak masaüstüne kayıt edilir.
