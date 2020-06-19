@@ -9,6 +9,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO.Ports;
 
+
+//BÜTÜN PROGRAM KODLARI TÜM EKİP ÜYELERİNİN ORTAK ÇALIŞMASI İLE YAZILMIŞTIR!
+//Yazan,Test Eden,Hata Ayıklayan: Esra YÜCE, Feyza YILMAZ, Halil SEÇİLMİŞ, Özlem ÖZKAYA
+
 namespace _veri
 {
     public partial class Form1 : Form
